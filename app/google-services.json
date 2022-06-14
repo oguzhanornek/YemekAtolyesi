@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846801133251",
+    "project_id": "yemekatolyesi-3f9eb",
+    "storage_bucket": "yemekatolyesi-3f9eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846801133251:android:9ea72b17a199a56a9d0c76",
+        "android_client_info": {
+          "package_name": "com.ta.yemekatolyesi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846801133251-t8mkmtlps8u18gsk6ipgnbakpuh61faq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr8QhBPpR5HjlBTxZJjoG9aQ4Rvc1tvbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846801133251-t8mkmtlps8u18gsk6ipgnbakpuh61faq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

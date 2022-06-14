@@ -13,7 +13,6 @@ import com.ta.yemekatolyesi.utils.Constants
 class WelcomeFragment : Fragment() {
     private var _binding : FragmentWelcomeBinding? = null
     private val binding get() = _binding!!
-    private lateinit var name : String
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
